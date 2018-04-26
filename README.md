@@ -1,2 +1,3 @@
-# verification-code
-verification code slide verify
+# VerificationCode
+效果图
+![Alt text](result.jpg)
