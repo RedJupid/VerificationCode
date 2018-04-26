@@ -1,14 +1,14 @@
 # VerificationCode
-##效果图
+## 效果图   
 ![效果图](result.jpg)
-##Quick Start
-###1.Get some image with size of 300*200
-###2.import RedJu.js and RedJu.css
+## Quick Start
+### 1.Get some image with size of 300*200
+### 2.import RedJu.js and RedJu.css
 ```html
 <link rel="stylesheet" type="text/css" href="RedJu.css">
 <script type="text/javascript" src="RedJu.js"></script>
 ```
-###3.Add html and you must create elements like this
+### 3.Add html and you must create elements like this
 ```html
 <div id="slideVerify">
     <div class="image">
@@ -22,7 +22,7 @@
     </div>
 </div>
 ```
-###4.Finally new Object to import the plugin
+### 4.Finally new Object to import the plugin
 ```javascript
 <script type="text/javascript">
   var slideVerify = new SlideVerify("img/",9);
