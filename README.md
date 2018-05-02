@@ -2,7 +2,7 @@
 ## 效果图   
 ![效果图](result.jpg)
 ## Demo
-[demo]('https://redjupid.github.io/VerificationCode/demo.html')
+演示地址：[demo](https://redjupid.github.io/VerificationCode/demo.html)
 ## Quick Start
 ### 1.Get some image with size of 300*200
 ### 2.import RedJu.js and RedJu.css
